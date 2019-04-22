@@ -1,0 +1,1 @@
+{"batch_size": 16, "n_epochs": 4000, "lr_schedule": [[0, 0.001], [30, 0.0001]], "lstm_units": 100, "mode": "rot_plus"}
