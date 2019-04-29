@@ -4,10 +4,5 @@ This project was part of the second Research Internship in the M.Sc. Neuroscienc
 Supervisor: Joschka Boedecker, Assistant Professor and head of Neurorobotics, Dep. of Computer Science, University of Freiburg.
 
 ## Requirements
-tensorflow (1.6)
-gym ()
-mujoco-py ()
-pandas ()
-seaborn ()
-jupyter ()
+tensorflow, gym, mujoco-py (v1.50.1.68), pandas, seaborn, jupyter
 
